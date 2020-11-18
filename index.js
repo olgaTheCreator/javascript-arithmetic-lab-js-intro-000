@@ -1,7 +1,7 @@
 function add(){};
 
-function substract(){};
+function subtract(){};
 
 function multiply(){};
 
-function devide () {};
+function devide() {};
