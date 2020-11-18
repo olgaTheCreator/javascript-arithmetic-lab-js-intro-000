@@ -4,4 +4,4 @@ function subtract(){};
 
 function multiply(){};
 
-function devide() {};
+function divide() {};
